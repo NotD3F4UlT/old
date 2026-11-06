@@ -21,6 +21,7 @@ A preservation archive of early coding experiments, math puzzle solvers, C exerc
 │   ├── q.py                # Ratio of square roots calculator
 │   ├── Untitled-1.py       # Loop scratchpad
 │   ├── Untitled-2.py       # Basic multiplication prompt
+│   ├── well.py             # Basic terminal calculator (+, -, *, /) with zero-division handling
 │   ├── compute_maths.bat   # Windows one-click launcher for import math.py
 │   ├── Pythagoras.bat      # Windows one-click launcher for pythagoras theorem.py
 │   └── prime.bat           # Windows one-click launcher for Prime Calculator.py
