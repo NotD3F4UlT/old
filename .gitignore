@@ -1,0 +1,19 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Disk images and installers
+*.img
+*.iso
+*.msi
+
+# Python environment & cache
+__pycache__/
+*.py[cod]
+Lib/
+Scripts/
+
+# VS Code / Code Runner temp files
+.vscode/
+tempCodeRunnerFile.*
